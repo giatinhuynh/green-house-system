@@ -7,7 +7,8 @@
         "microphone": "*",
         "pxt-rekabit": "github:cytrontechnologies/pxt-rekabit#v1.2.2",
         "i2cLCD1602": "github:makecode-extensions/i2clcd1602#v1.5.0",
-        "pxt-esp8266": "github:cytrontechnologies/pxt-esp8266#v2.0.1"
+        "pxt-esp8266": "github:cytrontechnologies/pxt-esp8266#v2.0.1",
+        "Environment-and-Science-IoT": "github:tinkertanker/pxt-iot-environment-kit#v5.2.1"
     },
     "files": [
         "main.blocks",
